@@ -1,5 +1,5 @@
 # 🚀 Professional Login Page
-🔗**DEMO** [visit](link)
+🔗**DEMO** [visit](https://kmqe.github.io/Professional-Login-Page/)
 
 ## 📋 Overview
 A modern HTML & CSS login page with animations, input fields, and links for recovery and signup.
@@ -16,12 +16,12 @@ A modern HTML & CSS login page with animations, input fields, and links for reco
 
 SSH
 ```
-git clong 
+git clong git@github.com:Kmqe/Professional-Login-Page.git
 ```
 
 HTTPS
 ```
-git clone 
+git clone https://github.com/Kmqe/Professional-Login-Page.git
 ```
 
 2. 📂 Open `index.html` in your browser
